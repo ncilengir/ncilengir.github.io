@@ -176,6 +176,9 @@ div.col-sm-3 div.profile-about {
     .fixed-condition {
         position: fixed;
         max-width: 255px;
+        top: 25px;
+        bottom: auto;
+
     }
 }
 
@@ -193,13 +196,7 @@ div.col-sm-3 div.profile-about {
 }
 
 .avatar-before-user-status {
-
-    border: 1px solid #e1e4e8;
-    border-bottom: 0;
-    border-top-left-radius: 3px;
-    border-top-right-radius: 3px;
-    border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0;
+    border-radius: 50%;
 }
 
 .height-full {
