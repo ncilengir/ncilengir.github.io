@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm application security & software development enthusiast. I have been providing software consultancy to small and medium-sized companies for a few years.
 Generally, I work on the backend technologies. The technologies i use are usually PHP -laravel, symfony-, Python -Django, Flask- and Java -Spring, Hibernate etc-.
-Also, I work as a translator and writer in the [Arka Kapı Magazine](https://arkakapidergi.com/).
+Also, I work as a translator and writer at [Arka Kapı Magazine](https://arkakapidergi.com/).
 
 
 #  Education    

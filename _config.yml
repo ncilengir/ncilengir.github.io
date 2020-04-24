@@ -2,9 +2,9 @@ title:  Blog
 description: Disconnetus Erectus
 author: Nuri Çilengir
 github: https://github.com/derectus
-about: I'm application security & software development enthusiast. Also, I work as a translator and writer in the Arka Kapı Magazine.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+about: I'm application security & software development enthusiast. Also, I work as a translator and writer at Arka Kapı Magazine.
+disqus_shortname: nurilengir-me
+google_analytics: UA-164493833-1
 
 enableTags: true
 tagarray: []
@@ -15,7 +15,6 @@ collections:
     permalink: /project/:path/
 
 social:
-
     - icon: fa-twitter
       link: "https://twitter.com/der3ctus"
     - icon: fa-linkedin
@@ -34,10 +33,10 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://derectus.github.io"
+url: "http://nurilengir.me/"
 baseurl: ""
-paginate: 20
-per_page: 20
+paginate: 25
+per_page: 25
 paginate_path: "/page/:num/"
 markdown: kramdown
 plugins:
