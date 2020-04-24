@@ -10,7 +10,7 @@ Also, I work as a translator and writer at [Arka Kapı Magazine](https://arkakap
 
 
 #  Education    
- - **B.S. in Computer Engineer, Dokuz Eylül University**, *2017 - 2021*
+ - **B.S. in Computer Engineer, Dokuz Eylül University**, *2016 - 2021*
 
 # Experience    
  - [Arka Kapı Magazine](https://arkakapidergi.com/)
