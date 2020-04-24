@@ -11,7 +11,6 @@ Also, I work as a translator and writer at [Arka Kapı Magazine](https://arkakap
 
 #  Education    
  - **B.S. in Computer Engineer, Dokuz Eylül University**, *2017 - 2021*
- - **B.S in  Computer Engineer, Celal Bayar Üniversitesi**, *2016 - 2017 (Academic transfer)*  
 
 # Experience    
  - [Arka Kapı Magazine](https://arkakapidergi.com/)
