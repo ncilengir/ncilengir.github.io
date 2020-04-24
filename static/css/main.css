@@ -177,7 +177,6 @@ div.col-sm-3 div.profile-about {
         position: fixed;
         max-width: 255px;
         top: 25px;
-        bottom: auto;
 
     }
 }
@@ -187,22 +186,6 @@ div.col-sm-3 div.profile-about {
         margin-top: 30px;
     }
 }
-
-.avatar {
-    display: inline-block;
-    overflow: hidden;
-    line-height: 1;
-    vertical-align: middle;
-}
-
 .avatar-before-user-status {
     border-radius: 50%;
-}
-
-.height-full {
-    height: 100% !important;
-}
-
-.width-full {
-    width: 100% !important;
 }

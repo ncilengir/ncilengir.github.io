@@ -14,7 +14,7 @@ input#js-search__input {
   list-style: none;
   padding: 0;
   overflow-x: hidden;
-  height: calc(100% - 110px);
+  height: auto;
   transition: 0.2s ease;
 }
 .search__results.is-hidden {
