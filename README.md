@@ -1,1 +1,1 @@
-# Nuri Çilengir : Personel Blog -> http://nurilengir.me/
+Personel Blog -> http://nurilengir.me/
