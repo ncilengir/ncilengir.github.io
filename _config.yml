@@ -15,20 +15,18 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
+
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/der3ctus"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/cilengirnuri/"
+    - icon: fa-reddit
+      link: "https://www.reddit.com/user/erectustd"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/derectus"
 
 share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+  twitter_username: der3ctus
 
 urls:
     - text: About
