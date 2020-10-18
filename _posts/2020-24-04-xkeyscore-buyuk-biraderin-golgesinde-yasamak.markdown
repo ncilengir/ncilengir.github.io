@@ -5,9 +5,6 @@ date:   2020-05-24 01:00:00 +0300
 categories: [privacy]
 ---
 
-
-# XKeyscore: Büyük Birader’in Gölgesinde Yaşamak
-
 > “Gizlenecek hiçbir şeyin olmadığı için gizlilik hakkıyla
 > ilgilenmediğinizi iddia etmek, özgür konuşma hakkıyla
 > ilgilenmediğinizi söylemekten farklı değildir çünkü söyleyecek bir
