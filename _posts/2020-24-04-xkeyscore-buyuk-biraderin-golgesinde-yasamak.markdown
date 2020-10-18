@@ -14,7 +14,7 @@ categories: [privacy]
 > şeyiniz yoktur.” Edward Snowden
 > 
 
-![big-brother-is-watching-you](/static/_posts/big-brother-is-watching-you.png)
+![big-brother-is-watching-you](https://raw.githubusercontent.com/derectus/derectus.github.io/blob/master/static/_posts/big-brother-is-watching-you.png)
 
 
 Mahremiyetin insanlığın başlangıcına kadar uzanan bir hikayesi vardır ve insanın özgür bir birey olabilmesinin ön şartlarından biridir. Dolayısıyla mahremiyet ihtiyacı, en temel insan ihtiyaçlarından biri olmalıdır. Durum böyleyken, günümüz bilgi çağında insanlar mahremiyet haklarından bir takım yanılsamalar ya da farklı amaçlar uğruna bilinçli veya bilinçsiz vazgeçmektedirler. Bilginin önemin arttığı ve her kesimden insanın bilgi alışverişi ile yaşayabildiği çağımızda, kişisel bilgilerin gizliliği önemli görülmemekte. Bu yüzden makale boyunca mahremiyet kavramından yola çıkarak, insanların global çapta devlet ya da şirketler tarafından mahremiyetleri hiçe sayılarak nasıl manipüle edildiğini gösteren XKeyscore’a değineceğiz.
@@ -25,7 +25,7 @@ Bir düşünelim. En sevdiğiniz müzisyenin doğum gününü mü unuttuğunuzda
 
 Mahremiyet, literatürde ilk kez 1890 yılında Amerikalı yargıç Brandeis tarafından “Yalnız bırakılma hakkı; hakların en kapsamlısı ve özgür insanlar tarafından en çok değer verileni.” olarak özgürlük ve birey olma kavramları ile mahremiyet kavramını ilişkilendirerek tanımlanmıştır. Ancak daha güncel bir tanımlamaya başvurmak istersek James Rachels’in “...Sadece saklanacak şeyi ifade etmek için değil, yaşam niteliğini artırmak için bir gereksinim, kendini gerçekleştirme, özerkliğini koruma yollarından biri olarak ele alınmalıdır. Sonuç olarak mahremiyet, toplumdan soyutlanma değil, ben ile öteki sınırının belirlenmesi, kontrol edilmesi olarak özetlenebilir.” şeklindeki tanımını da aktarmakta fayda var.
 
-![big-brother-is-watching-you](/static/_posts/1.png)
+![big-brother-is-watching-you](https://raw.githubusercontent.com/derectus/derectus.github.io/blob/master/static/_posts/1.png)
 
 
 ### XKeyscore Nedir?
@@ -52,17 +52,17 @@ XKeyscore, Linux sunucuları -genellikle Red Hat sunucuları- üzerinde çalış
 
 Sistemin ne olduğunu gördük. Aslında baktığımızda bu kadar büyük veri akışının olduğu sistem için oldukça mütevazi ve basit bir konfigürasyona sahip. Dolayısıyla, bu sistemi daha efektif kullanmak gerekiyor ki toplanan onca ham veri kolayca işlenebilsin. Bunun için toplanan veriler, GENESIS adında özel bir dil ile appID, fingerprint ve microplugin adı verilen kurallara uygun bir şekilde kaydediliyor. AppID'ler, yakalanan trafik protokolünü tanımlamak için kullanılırken, fingerprintler belirli bir içerik türünü algılıyorlar. Her yakalanan trafik akışı bir appID'ye ve herhangi bir fingerprint'e atanıyor. AppID'leri kategoriler, fingerprint'leri etiketler olarak düşünebiliriz. Örneğin; Windows Update isteklerini “update_service/windows” appID altında, normal web istekleri “http/get” appID altında işleniyor. Öte yandan, THY’den bir bilet aldınız bu trafik XKeyscore tarafından “travel/turkishairlines” fingerprint ile ya da iPhone’nunuzda bulunan bir tarayıcıda gezinirken oluşturduğunuz trafik “browser/cellphone/iphone” ile tespit edilip etiketleniyor.
 
-![big-brother-is-watching-you](/static/_posts/2.png)
+![big-brother-is-watching-you](https://raw.githubusercontent.com/derectus/derectus.github.io/blob/master/static/_posts/2.png)
 
 Yeni trafik bir XKeyscore sunucularına geldiğinde, sistem gelen verileri bu kuralların her birine karşı test ediyor ve trafiğin var olan patternlerle ile eşleşip eşleşmediğine bakıp depolıyor. Öte yandan, birden fazla appID tek bir trafik akışıyla eşleşiyorsa, en düşük “düzey” olan appID seçiliyor. Örneğin, XKeyscore, Yahoo postasından bir dosya ekini değerlendirirken, görselde olan tüm appID'ler eşleşiyor, ancak bu trafik akışıyla yalnızca “mail/webmail /yahoo/attachment” ilişkilendiriliyor.  Daha net anlamak için, Arapça iletişim kuran kimse bir Yahoo e-posta adresine girdiğinde bu trafik “mail/yahoo/login” appID ile saklanacaktır. Öte yandan bu trafik akışı, “mail/arabic” parmak iziyle (dil ayarları) ve “mail/yahoo/ymbm” parmak iziyle (Yahoo tarayıcı çerezleri) eşleşip etkileniyor.
 
 Belgeler, 2010 yılında XKeyscore’un yaklaşık 10000 appID ve fingerprint’e sahip olduğunu gösteriyor. Günümüzde bu sayının ne olduğu gerçekten merak edilesi.
 
-![big-brother-is-watching-you](/static/_posts/3.png)
+![big-brother-is-watching-you](https://raw.githubusercontent.com/derectus/derectus.github.io/blob/master/static/_posts/3.png)
 
 Genesis adı verilen özel dil, bazı karmaşık pattern barındıran trafik türlerininin eşleşmesini yapacak kadar güçlü değildir. Bu durumlarda, dökümanlarda gözüktüğü kadarıyla Micropluginler devre girmete. Micropluginler, C/C++ ile yazılmış appID ve fingerprintlerdir.
 
-![big-brother-is-watching-you](/static/_posts/4.png)
+![big-brother-is-watching-you](https://raw.githubusercontent.com/derectus/derectus.github.io/blob/master/static/_posts/4.png)
 
 Örnek olarak burada, yakalanan Facebook sohbet mesajlarını incelemek ve ilişkili e-posta adresi ve sohbet mesajının gövdesi gibi ayrıntıları almak için C++ kullanan bir microplugin görmekteyiz.
 
