@@ -13,13 +13,16 @@ Also, I work as a translator and writer at [Arka Kapı Magazine](https://arkakap
  - **B.S. in Computer Engineer, Dokuz Eylül University**, *2016 - 2021*
 
 # Experience    
+ - **INVICTUS Cyber Security and Intelligence INC.**
+    - *Cyber Security Consultant* (2020, September)
+ - **Fenrir SoftTech**
+    - *Freelance Full Stack Developer & Owner*, İzmir/Turkey (2016, 2020 August)    
+ - **Celal Bayar University - IT Department**    
+    - *Technical Person*, Manisa/Turkey (2015 - 2016)
+    
+# Organization
  - [Arka Kapı Magazine](https://arkakapidergi.com/)
     - Translator & Writer
- - **Fenrir SoftTech**
-    - *Freelance Full Stack Developer & Owner*, İzmir/Turkey (2016, now)    
- - **Celal Bayar University - IT Department**    
-    - *Technical Person*, Manisa/Turkey (2015 - 2016)    
-
    
 # Talks  
  - [Modern Web Application Programming, Dokuz Eylül University, (2019)](/static/docs/modern-web-application-programming_nuri-cilengir_2019.pdf)
