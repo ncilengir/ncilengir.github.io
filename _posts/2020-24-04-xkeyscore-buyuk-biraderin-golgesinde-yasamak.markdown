@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "XKeyscore: Büyük Birader’in Gölgesinde Yaşamak"
-date:   2020-04-24 01:00:00 +0300
+date:   2020-05-24 01:00:00 +0300
 categories: [privacy]
 ---
 
