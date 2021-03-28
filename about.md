@@ -13,7 +13,7 @@ Also, I work as a translator and writer at [Arka Kapı Magazine](https://arkakap
  - **B.S. in Computer Engineer, Dokuz Eylül University**, *2016 - 2021*
 
 # Experience    
- - **INVICTUS Cyber Security and Intelligence INC.**
+ - **Prodaft Cyber Security and Intelligence INC.**
     - *Cyber Security Consultant* (2020, September)
  - **Fenrir SoftTech**
     - *Freelance Full Stack Developer & Owner*, İzmir/Turkey (2016, 2020 August)    
