@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Pentest Ninja & Security Researcher 
+Pentest Ninja & Application Security Researcher.
 
 
 #  Education    
