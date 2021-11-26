@@ -4,13 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm application security & software development enthusiast. I have been providing software consultancy to small and medium-sized companies for a few years.
-Generally, I work on the backend technologies. The technologies i use are usually PHP -laravel, symfony-, Python -Django, Flask- and Java -Spring, Hibernate etc-.
-Also, I work as a translator and writer at [Arka Kapı Magazine](https://arkakapidergi.com/).
+Pentest Ninja & Security Researcher 
 
 
 #  Education    
- - **B.S. in Computer Engineer, Dokuz Eylül University**, *2016 - 2021*
+ - **B.S. in Computer Engineer, Dokuz Eylül University**, *2016 - 2020*
 
 # Experience    
  - **Prodaft Cyber Security and Intelligence INC.**
