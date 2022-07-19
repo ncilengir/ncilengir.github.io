@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Pentest Ninja & Application Security Researcher.
-
+Pentest Ninja & Security Researcher at [@prodaft](/#), [@pentestblog](https://pentest.blog/)
 
 #  Education    
  - **B.S. in Computer Engineer, Dokuz Eylül University**, *2016 - 2020*
@@ -35,4 +34,4 @@ Pentest Ninja & Application Security Researcher.
 ### Contact
 Email: [nuriilengir[at]protonmail.com](mailto:nuriilengir@protonmail.com)  
 
-Twitter: [@der3ctus](https://twitter.com/der3ctus), Keybase: [@derectus](https://keybase.io/derectus), Github: [@derectus](https://github.com/derectus), Linkedin: [@cilengirnuri](https://www.linkedin.com/in/cilengirnuri/) , Reddit: [@erectustd](https://www.reddit.com/user/erectustd)
+Twitter: [@ncilengir](https://twitter.com/ncilengir), Github: [@ncilengir](https://github.com/ncilengir), Linkedin: [@cilengirnuri](https://www.linkedin.com/in/cilengirnuri/)
