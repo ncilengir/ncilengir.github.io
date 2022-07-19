@@ -1,1 +1,1 @@
-Personel Blog -> http://nurilengir.me/
+Personel Blog -> https://ncilengir.github.io
